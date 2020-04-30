@@ -1,0 +1,2 @@
+print('fir')
+print('sec')
